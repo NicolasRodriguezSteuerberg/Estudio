@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExameTry</string>
+    <string name="descriptionChurch">Icono de una iglesia</string>
+    <string name="descriptionMas">Icono de un más</string>
+</resources>
